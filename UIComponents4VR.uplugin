@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UIComponents4VR",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Coratti Stefano",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UIComponents4VR",
+			"Type": "Developer",
+			"LoadingPhase": "Default"
+		}
+	]
+}
